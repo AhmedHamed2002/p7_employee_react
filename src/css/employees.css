@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+.Title{
+    background:linear-gradient(to right ,  #24674f9b , rgb(18, 98, 148), rgb(16, 58, 84)) !important; 
+    background-clip: text !important;
+    color: transparent !important;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+
+.image{
+    width: 100px;
+    height: 100px;
+    top:-50px ; 
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.card{   
+    background:linear-gradient(to right ,  #56a48963 , rgba(18, 98, 148, 0.389), rgba(9, 144, 228, 0.444)) !important;
+    cursor: pointer;
+    transition: 1.2s;
+    &:hover{
+        transform: scale(0.9);
+    }
+}
+
+

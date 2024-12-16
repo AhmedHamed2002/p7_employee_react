@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+.navbar-item{
+    cursor: pointer;
+    &.active .l{
+        background:linear-gradient(to right ,  #36af859b , rgb(12, 194, 235)) !important; 
+        background-clip: text !important;
+        color: transparent !important; 
+    }
+}
+
+.title{
+    background:linear-gradient(to right ,  #3fc5969b , #1cadab9b , rgb(24, 138, 209)) ; 
+    background-clip: text ;
+    color: transparent ;
+    font-family: "Playfair Display", serif;
+    animation: move 20s infinite  linear;
+}
+
+@keyframes move {
+    0%{
+        background-position: -300px 0px ;
+    }
+    100%{
+        background-position: 300px 0px ;
+    }
+}

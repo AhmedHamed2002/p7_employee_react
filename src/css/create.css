@@ -1,0 +1,20 @@
+.Card{   
+    background:linear-gradient(to right ,  #56a48963 , rgba(18, 98, 148, 0.389), rgba(9, 144, 228, 0.444)) !important;
+    cursor: pointer;
+    transition: 1.2s;
+}
+
+input, select{
+    border: none;
+    padding-inline: 40px;
+    border-radius: 10px;
+    padding-block: 5px;
+    color: rgb(4, 83, 57) ; 
+    background-color: rgba(240, 248, 255, 0.46);
+    
+    &:focus{
+        outline:  none;
+        background-color: beige;
+    }
+
+}

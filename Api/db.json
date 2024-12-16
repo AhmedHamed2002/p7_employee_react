@@ -1,0 +1,125 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "ID": 1,
+      "FirstName": "Pranaya",
+      "LastName": "Rout",
+      "Gender": "Male",
+      "Salary": 60000,
+      "id": "1ba0"
+    },
+    {
+      "ID": 2,
+      "FirstName": "Anurag",
+      "LastName": "Mohanty",
+      "Gender": "Male",
+      "Salary": 45000,
+      "id": "2208"
+    },
+    {
+      "ID": 3,
+      "FirstName": "Preety",
+      "LastName": "Tiwari",
+      "Gender": "Female",
+      "Salary": 45000,
+      "id": "31d8"
+    },
+    {
+      "ID": 4,
+      "FirstName": "Sambit",
+      "LastName": "Mohanty",
+      "Gender": "Male",
+      "Salary": 70000,
+      "id": "e7c6"
+    },
+    {
+      "ID": 5,
+      "FirstName": "Shushanta",
+      "LastName": "Jena",
+      "Gender": "Male",
+      "Salary": 45000,
+      "id": "b565"
+    },
+    {
+      "ID": 6,
+      "FirstName": "Priyanka",
+      "LastName": "Dewangan",
+      "Gender": "Female",
+      "Salary": 30000,
+      "id": "460e"
+    },
+    {
+      "ID": 7,
+      "FirstName": "Sandeep",
+      "LastName": "Kiran",
+      "Gender": "Male",
+      "Salary": 45000,
+      "id": "c5cf"
+    },
+    {
+      "ID": 8,
+      "FirstName": "Shudhansshu",
+      "LastName": "Nayak",
+      "Gender": "Male",
+      "Salary": 30000,
+      "id": "cf2a"
+    },
+    {
+      "ID": 9,
+      "FirstName": "Hina",
+      "LastName": "Sharma",
+      "Gender": "Female",
+      "Salary": 35000,
+      "id": "bffe"
+    },
+    {
+      "ID": 10,
+      "FirstName": "Preetiranjan",
+      "LastName": "Sahoo",
+      "Gender": "Male",
+      "Salary": 80000,
+      "id": "bb72"
+    },
+    {
+      "FirstName": "Ahmed",
+      "LastName": "Hamed",
+      "Salary": "2000000",
+      "Gender": "Male",
+      "id": "8e33"
+    },
+    {
+      "FirstName": "Ahmed",
+      "LastName": "Badr",
+      "Salary": "20000",
+      "Gender": "Male",
+      "id": "9e6f"
+    }
+  ]
+}

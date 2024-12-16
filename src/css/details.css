@@ -1,0 +1,9 @@
+.myImage{
+    width: 150px;
+    height: 150px;
+}
+
+.myCard{
+    background:linear-gradient(to right ,  #2e745c8f , rgba(11, 63, 95, 0.389), rgba(9, 144, 228, 0.444)) !important;
+    cursor: pointer;
+}
